@@ -16,6 +16,10 @@ Lista componente:
 - MODUL BUZZER ACTIV
 - FIRE
 
+![project](http://url/to/img.png)
+
+![circuit_diagram](http://url/to/img.png)
+
 ## Software Design
 
 Aplicatia dispune de optiunile urmatoare: SOUND, PAD_SPEED, BALL_SPEED, SKEW, PAD_SIZE, MULTIPLAYER. Aceste optiuni sunt integrate intr-o `struct` ce contine numele, valoarea minima, valoarea maxima, valoarea prin care incrementam si valoarea curenta a optiunii respective. De exemplu, un element al acestei structuri este de forma: `{“Ball-Speed”, 1, 19, 1, 4}`.
