@@ -16,7 +16,7 @@ Lista componente:
 - MODUL BUZZER ACTIV
 - FIRE
 
-![project](http://url/to/img.png)
+![project]([http://url/to/img.png](https://github.com/kn1ghtfall/Arduino-Pong-Game/blob/main/circuit.png))
 
 ![circuit_diagram](http://url/to/img.png)
 
