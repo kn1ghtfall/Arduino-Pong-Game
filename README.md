@@ -18,7 +18,7 @@ Lista componente:
 
 ![project](https://github.com/kn1ghtfall/Arduino-Pong-Game/blob/main/circuit.png)
 
-![circuit_diagram](http://url/to/img.png)
+![circuit_diagram]([http://url/to/img.png](https://github.com/kn1ghtfall/Arduino-Pong-Game/blob/main/pong_diagram.png))
 
 ## Software Design
 
